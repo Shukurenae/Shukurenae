@@ -1,4 +1,3 @@
-![logo](https://github.com/Shukurenae/Shukurenae/tree/main/pic)
 <h1 align="center">Hi 👋, I'm Shuvajit Sarkar</h1>
 <h3 align="center">A passionate coder</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxifZDNOWbDBsPNrre5AvJhDPB3x5OV3hNg&s">

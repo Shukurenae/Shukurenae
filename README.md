@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvajit Sarkar</h1>
 <h3 align="center">A passionate coder</h3>
-<img align="right" width="400" src="https://www.google.com/imgres?imgurl=https://64.media.tumblr.com/2cb005113fc8030a47e44e8ca13cdc89/95bcc4aeacbe4c7e-da/s1280x1920/1947dce1eac8a2fa232f55951238c00f590b50c2.gif&imgrefurl=https://wifflegif.com/gifs/733700-pixel-jeff-pixel-art-gif&h=800&w=800&tbnid=1SkAjGkKh4s6JM&source=sa.im&tbnh=225&tbnw=225&usg=AI4_-kQmFfv1xE0XK-RlRQzH24gbwH_BTg&vet=1&docid=7DjQHAdqQgV4SM">
+<img align="right" width="400" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 - am currently learning ***backend development***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shukurenae](https://github.com/Shukurenae)
